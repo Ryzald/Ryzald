@@ -1,5 +1,8 @@
 # 💫 About Me:
-📚 I am currently a student pursuing a degree in Information Systems at Brawijaya University.<br>💻 I am learning about full-stack web development.<br>💬 Feel free to ask me about topics related to Information Systems, full-stack web development, or anything else you'd like to know.<br>🌍 I live in Malang, Indonesia.
+📚 I am currently a student pursuing a degree in Information Systems at Brawijaya University.<br>
+💻 I am learning about Front End Web and Mobile Developer.<br>
+💬 Feel free to ask me about topics related to Information Systems, full-stack web development, or anything else you'd like to know.<br>
+🌍 I live in Surabaya, Indonesia.
 
 
 ## 🌐 Socials:
